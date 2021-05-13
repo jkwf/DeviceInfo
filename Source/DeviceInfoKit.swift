@@ -1,6 +1,6 @@
 //
-//  AppHelper.swift
-//  DeviceInfo
+//  DeviceInfoKit.swift
+//  DeviceInfoKit
 //
 //  Created by KangFang on 2020/6/28.
 //  Copyright © 2020 KangFang. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class AppHelper: NSObject {
+class DeviceInfoKit: NSObject {
     
     /// 获取设备型号
     /// - Returns: <#description#>
