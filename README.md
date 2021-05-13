@@ -10,7 +10,7 @@
 $ gem install cocoapods
 ```
 
-To integrate DeviceKit into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate DeviceInfoKit into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
@@ -18,7 +18,7 @@ platform :ios, '10.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'DeviceKit', '~> 1.0.0'
+    pod 'DeviceInfoKit', '~> 1.0.0'
 end
 ```
 
@@ -30,4 +30,4 @@ $ pod install
 
 ## License
 
-DeviceKit is released under the MIT license. See LICENSE for details.
+DeviceInfoKit is released under the MIT license. See LICENSE for details.
